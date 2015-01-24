@@ -87,6 +87,10 @@
  '(diff-changed                        ((t (:foreground "#3388cc"))))
  '(diff-hunk-header                    ((t (:background "#242130"))))
 
+ '(helm-candidate-number ((t (:background "color-244" :foreground "black"))))
+ '(helm-header ((t (:background "black"))))
+ '(helm-selection ((t (:background "color-17" :underline t))))
+ '(helm-source-header ((t (:background "color-234" :foreground "white"))))
 
  '(font-lock-comment-face ((t (:foreground "#888888"  ))))
  '(font-lock-string-face ((t (:foreground "#99ad6a"  ))))
