@@ -31,7 +31,7 @@
  '(linum                               ((t (:foreground "#3f3f3b"  :background "#2a2a28" ))))
  '(fringe                              ((t (                       :background "#2a2a28" ))))
 
- '(minibuffer-prompt                   ((t (:foreground "#1278A8"  :background nil       :weight bold                                  ))))
+ '(minibuffer-prompt                   ((t (:foreground "#ff99ff"  :background nil       :weight bold                                  ))))
  '(escape-glyph                        ((t (:foreground "orange"   :background nil                                                     ))))
  '(highlight                           ((t (:foreground "orange"   :background nil                                                     ))))
  '(shadow                              ((t (:foreground "#777777"  :background nil                                                     ))))
