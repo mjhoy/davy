@@ -92,6 +92,8 @@
  '(helm-header ((t (:background "black"))))
  '(helm-selection ((t (:background "color-17" :underline t))))
  '(helm-source-header ((t (:background "color-234" :foreground "white"))))
+ '(helm-ff-directory ((t (:foreground "#cc3333" :background "#242130"))))
+ '(helm-ff-dotted-directory ((t (:foreground "#cc3333" :background "#242130"))))
 
  ;;mu4e
  '(mu4e-unread-face ((t (:foreground "brightcyan" :weight normal))))
