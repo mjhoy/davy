@@ -53,7 +53,7 @@
 
  '(isearch                             ((t (:foreground "#99ccee"  :background "#444444"                                               ))))
  '(isearch-fail                        ((t (                       :background "#ffaaaa"                                               ))))
- '(lazy-highlight                      ((t (                       :background "#77bbdd"                                               ))))
+ '(lazy-highlight                      ((t (                       :background "#2f3735"                                               ))))
  '(match                               ((t (                       :background "#3388cc"                                               ))))
 
  '(tooltip                             ((t (:foreground "black"    :background "LightYellow" :inherit (variable-pitch)                 ))))
