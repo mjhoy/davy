@@ -88,7 +88,7 @@
  '(diff-hunk-header                    ((t (:background "#242130"))))
 
  ;;helm
- '(helm-candidate-number ((t (:background "color-244" :foreground "black"))))
+ '(helm-candidate-number ((t (:background "#999999" :foreground "black"))))
  '(helm-header ((t (:background "black"))))
  '(helm-selection ((t (:background "color-17" :underline t))))
  '(helm-source-header ((t (:background "color-234" :foreground "white"))))
