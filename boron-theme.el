@@ -90,13 +90,13 @@
  ;;helm
  '(helm-candidate-number ((t (:background "#999999" :foreground "black"))))
  '(helm-header ((t (:background "black"))))
- '(helm-selection ((t (:background "color-17" :underline t))))
- '(helm-source-header ((t (:background "color-234" :foreground "white"))))
+ '(helm-selection ((t (:background "#041b73" :underline t))))
+ '(helm-source-header ((t (:background "#222" :foreground "white"))))
  '(helm-ff-directory ((t (:foreground "#cc3333" :background "#242130"))))
  '(helm-ff-dotted-directory ((t (:foreground "#cc3333" :background "#242130"))))
 
  ;;mu4e
- '(mu4e-unread-face ((t (:foreground "brightcyan" :weight normal))))
+ '(mu4e-unread-face ((t (:foreground "#74f5f6" :weight normal))))
 
  '(font-lock-comment-face ((t (:foreground "#888888"  ))))
  '(font-lock-string-face ((t (:foreground "#99ad6a"  ))))
