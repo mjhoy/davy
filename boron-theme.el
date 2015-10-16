@@ -108,6 +108,18 @@
  '(diff-changed ((t (:foreground "#967efb"  ))))
  '(font-lock-comment-delimiter-face ((t (:foreground "#888888"  ))))
 
+ ;; org
+ '(org-block ((t (:foreground "#C1C993"))))
+ '(org-block-begin-line ((t (:foreground "#777777" :slant italic :background "#222"))))
+ '(org-date ((t (:foreground "#7D90FF"))))
+ '(org-level-1 ((t (:family "Input Sans" :foreground "#19BD52"))))
+ '(org-level-2 ((t (:family "Input Sans" :foreground "#9DC3C4"))))
+ '(org-level-3 ((t (:family "Input Sans" :foreground "#78B2E3"))))
+ '(org-level-4 ((t (:family "Input Sans" :foreground "#8585FF"))))
+ '(org-level-5 ((t (:foreground "#EDADE7"))))
+ '(org-level-6 ((t (:foreground "#967ef6"))))
+ '(org-special-keyword ((t (:foreground "#3F8DCC"))))
+
 ;; Rainbow delimiters
  '(rainbow-delimiters-depth-1-face ((t (:foreground "#60605f"))))
  '(rainbow-delimiters-depth-2-face ((t (:foreground "#696a69"))))
