@@ -1,0 +1,13 @@
+  #+title: davy
+ #+author: Michael Hoy
+  #+email: mjh@mjhoy.com
+
+# ---------------------------- #
+
+My fork of the [[https://github.com/emacsfodder/emacs-boron-theme][emacs theme "Boron"]].
+
+[[./images/davy-ss.png]]
+
+* davy?--Sir Humphry Davy, one of the discoverers of boron
+
+[[./images/davy.jpg]]
