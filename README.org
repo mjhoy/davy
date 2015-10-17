@@ -11,3 +11,6 @@ My fork of the [[https://github.com/emacsfodder/emacs-boron-theme][emacs theme "
 * davy?--Sir Humphry Davy, one of the discoverers of boron
 
 [[./images/davy.jpg]]
+
+/Sir Humphry Davy/ by Thomas Phillips. National Portrait Gallery,
+London. [[https://commons.wikimedia.org/wiki/File:Sir_Humphry_Davy,_Bt_by_Thomas_Phillips.jpg][(wiki commons)]]
