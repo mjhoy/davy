@@ -6,6 +6,8 @@
 
 My fork of the [[https://github.com/emacsfodder/emacs-boron-theme][emacs theme "Boron"]].
 
+There will be references to the [[http://input.fontbureau.com/][Input]] font family.
+
 [[./images/davy-ss.png]]
 
 * davy?--Sir Humphry Davy, one of the discoverers of boron
