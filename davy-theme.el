@@ -109,7 +109,7 @@
  '(org-level-1 ((t (:family "Input Sans" :foreground "#ffb964" :weight bold))))
  '(org-level-2 ((t (:family "Input Sans" :foreground "#9FFACF"))))
  '(org-level-3 ((t (:family "Input Sans" :foreground "#78B2E3" :underline "#9DC3C4" :background "#223452"))))
- '(org-level-4 ((t (:family "Input Sans" :foreground "#8585FF"))))
+ '(org-level-4 ((t (:family "Input Serif" :foreground "#e8e8d3" :slant italic))))
  '(org-level-5 ((t (:foreground "#EDADE7"))))
  '(org-level-6 ((t (:foreground "#967ef6"))))
  '(org-special-keyword ((t (:foreground "#3F8DCC"))))
