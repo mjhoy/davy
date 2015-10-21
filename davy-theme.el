@@ -114,6 +114,8 @@
  '(org-level-6 ((t (:foreground "#967ef6"))))
  '(org-special-keyword ((t (:foreground "#3F8DCC"))))
  '(org-document-title ((t (:family "Input Serif" :height 1.8 :foreground "#74f5f6"))))
+ '(org-indent ((t (:foreground "#151515"))))
+ '(org-hide ((t (:foreground "#151515"))))
 
 ;; Rainbow delimiters
  '(rainbow-delimiters-depth-1-face ((t (:foreground "#60605f"))))
