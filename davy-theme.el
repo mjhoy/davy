@@ -120,6 +120,9 @@
  ;; ace-window
  '(aw-leading-char-face ((t (:foreground "black" :background "#9DC3C4" :family "Input Sans" :height 3.0))))
 
+ ;; bm
+ '(bm-face ((t (:background "#041b73"))))
+
  ;; Rainbow delimiters
  '(rainbow-delimiters-depth-1-face ((t (:foreground "#60605f"))))
  '(rainbow-delimiters-depth-2-face ((t (:foreground "#696a69"))))
