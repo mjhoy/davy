@@ -81,6 +81,10 @@
  '(diff-changed                        ((t (:foreground "#3388cc"))))
  '(diff-hunk-header                    ((t (:background "#242130"))))
 
+ ;; web-mode
+ '(web-mode-html-tag-face              ((t (:foreground "#78B2E3"))))
+ '(web-mode-doctype-face               ((t (:foreground "#ffb964"))))
+
  ;;helm
  '(helm-candidate-number ((t (:background "#999999" :foreground "black"))))
  '(helm-header ((t (:background "black"))))
